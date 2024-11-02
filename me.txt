@@ -1,0 +1,3 @@
+Computer programming (also known as coding) is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.
+Programmable devices have existed for centuries or even more.
+The first computer program is normally dated to 1843 when the mathematician Lady Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
